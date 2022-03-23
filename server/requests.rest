@@ -1,0 +1,2 @@
+//For testing requests
+GET http://localhost:6500/users?page=1&limit=2
